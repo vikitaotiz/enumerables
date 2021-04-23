@@ -1,4 +1,4 @@
-# bubbleSort
+# Enumerables
 
 > This project shows custom made enumerables
 
@@ -23,6 +23,9 @@ This is our 2nd ruby project in microverse
 
 Copy and paste the code in replit.com
 
+3. For local use: CD into the cloned repository. 
+
+4. Run "ruby ./" then type the name of the file
 ### Prerequisites
 
 Just ensure you have one or more web browsers
